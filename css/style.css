@@ -55,7 +55,7 @@
 .back-img{
    background-size:contain;
      background: linear-gradient(330deg, rgba(11, 29, 38, 0.00) 31.06%, #0B1D26 108.93%);
-  background-image: url(/img/ground.png);
+  background-image: url(../img/ground.png);
    background-repeat: no-repeat;
    height: 1500px;
    background-size: 100%; 
@@ -65,7 +65,7 @@
 
 .header{
    background-size: cover;
-   background-image: url(/img/clouds.png);
+   background-image: url(../img/clouds.png);
    background-repeat: repeat;
 }
 
@@ -77,7 +77,7 @@
    height: 1500px;
    background-size: 100%; 
    background-position: 0px 300px;
-   background-image: url(/img/mountains.png);
+   background-image: url(../img/mountains.png);
 }
 
 .back-img-3{
