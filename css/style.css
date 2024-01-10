@@ -228,7 +228,7 @@ text-transform: uppercase;
 }
 .main{
    background-color:#0B1D26 ;
-   height: 2000px;
+   height: 2267px;
    width: 100%;
 }
 
@@ -269,4 +269,100 @@ text-transform: uppercase;
    opacity: 0.1;
    top: -119px;
    left: -140px;
+}
+
+.main-where{
+   position: absolute;
+   top: 3080px;
+   left: 379px;
+}
+
+.main-big-title-where{
+   position: absolute;
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 240px;
+   font-style: normal;
+   font-weight:900;
+   line-height: 240px; /* 100% */
+   opacity: 0.1;
+   top: -110px;
+   left: -153px;
+}
+
+
+.logo-footer{
+   color: #FFF;
+   font-family: Chronicle Display;
+   font-size: 32px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   letter-spacing: 0.32px;
+   text-transform: capitalize; 
+     ;
+}
+
+.footer{
+   background-color:#0B1D26 
+}
+
+
+.footer-title-h2-logo{
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   font-style: normal;
+   
+   font-weight: 400;
+   line-height: 32px; /* 177.778% */
+   margin-top: 24px;
+   margin-bottom: 122px;
+
+
+}
+
+.footer-title-h3-logo{
+ 
+   opacity: 0.5;
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 32px; /* 177.778% */   
+
+}
+
+.footer{
+   display: flex;
+   padding-bottom: 120px;
+}
+
+.footer-title-h6{
+   margin-top:16px; 
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 00;
+   line-height: 32px; /* 177.778% */
+}
+
+.footer-title-h4{
+   color: #FBD784;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: 32px; /* 133.333% */
+
+}
+
+.footer-list{
+   margin-left: 542px;
+}
+
+.footer-list-MNTN{
+   margin-left: 222px;
 }
