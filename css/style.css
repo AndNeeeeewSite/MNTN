@@ -1,0 +1,272 @@
+.container{
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 0 80px;
+}
+
+.header-link{
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+     font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+
+ .logo-header{
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    text-transform: capitalize;
+ }
+
+ .header-navigation{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 58px;
+   
+ }
+
+ .header-list-links{
+    display: flex;
+    gap:40px;
+ }
+
+ .header-list-account{
+    display: flex;
+    justify-content: baseline;
+    gap:8px;
+ }
+
+ .header-h2-account{
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+
+    
+
+.back-img{
+   background-size:contain;
+     background: linear-gradient(330deg, rgba(11, 29, 38, 0.00) 31.06%, #0B1D26 108.93%);
+  background-image: url(/img/ground.png);
+   background-repeat: no-repeat;
+   height: 1500px;
+   background-size: 100%; 
+   background-position: 0px 620px;
+
+}
+
+.header{
+   background-size: cover;
+   background-image: url(/img/clouds.png);
+   background-repeat: repeat;
+}
+
+
+.back-img-2{
+   background-position: 0px 600px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 1500px;
+   background-size: 100%; 
+   background-position: 0px 300px;
+   background-image: url(/img/mountains.png);
+}
+
+.back-img-3{
+   background: linear-gradient(180deg, rgba(11, 29, 38, 0.00) 0%, #0B1D26 30.38%);
+   width: 100%;
+   height: 700px;
+   position:absolute;
+   margin-top: 1010px;
+}
+
+
+
+.header-div{
+   background: linear-gradient(330deg, rgba(11, 29, 38, 0.00) 31.06%, #0B1D26 108.93%);
+}
+.header-title-h4-guide{
+   color: #FBD784;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: normal;
+   letter-spacing: 6px;
+   text-transform: uppercase;
+}
+
+.line-guide{
+   width: 72px;
+   height: 2px;
+   flex-shrink: 0;
+   background: #FBD784;
+}
+
+.header-guide-div-title{
+   display: flex;
+gap:32px;
+margin-bottom: 32px;
+
+}
+
+.line-guide{
+   margin-top: 12px;
+}
+
+
+
+.header-h3-guide{
+   color:  #FFF;
+   font-size: 88px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: 100px; /* 113.636% */
+   text-transform: capitalize;
+}
+
+
+.header-guide{
+   margin-top: 130px;
+   margin-left: 26%;
+   position: absolute;
+}
+
+.header-guide-div-nav{
+   display: flex;
+   gap:16px;
+   margin-top: 33px;
+}
+
+.header-title-h5-guide{
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+}
+
+.main-start{
+   position: absolute;
+   top: 1280px;
+   left: 379px;
+}
+
+.main-title-h4-start{
+   color:  #FBD784;
+   font-family: 'Open Sans', sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+letter-spacing: 6px;
+text-transform: uppercase;
+}
+
+.line-start{
+   width: 72px;
+   height: 2px;
+   flex-shrink: 0;   
+   background: #FBD784;
+   margin-top: 12px;
+}
+
+
+.main-start-div-title{
+   gap: 24px;
+   display: flex;
+   margin-bottom: 27px;
+}
+
+.main-h3-start{
+   color: #FFF;
+   font-size: 64px;
+   font-style: normal;
+   font-weight: 100;
+   line-height: normal;
+}
+.main-h6-start{
+   margin-top:27px;
+   margin-bottom: 27px;
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 00;
+   line-height: 32px; /* 177.778% */
+   width: 632px;
+}
+
+.main-title-h5-start{
+   color: #FBD784;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+}
+
+.main-start-title-img{
+   display: flex;
+   gap: 16px;
+}
+
+.main-title-start{
+   position: absolute;
+   bottom:-145px;
+   left: 679px;
+   
+}
+.main{
+   background-color:#0B1D26 ;
+   height: 2000px;
+   width: 100%;
+}
+
+.main-hiking{
+   position: absolute;
+   top: 2280px;
+   left: 979px;
+}
+
+.main-title-hiking{
+   position: absolute;
+   bottom:-145px;
+   left: -879px;
+   
+}
+
+.main-big-title-start{
+   position: absolute;
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 240px;
+   font-style: normal;
+   font-weight:900;
+   line-height: 240px; /* 100% */
+   opacity: 0.1;
+   top: -120px;
+   left: -153px;
+}
+
+.main-big-title-hiking{
+   position: absolute;
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 240px;
+   font-style: normal;
+   font-weight:900;
+   line-height: 240px; /* 100% */
+   opacity: 0.1;
+   top: -119px;
+   left: -140px;
+}
